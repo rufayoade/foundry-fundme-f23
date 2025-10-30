@@ -1,7 +1,7 @@
 # Compiler files
 cache/
 out/
-lib/
+
 
 # Ignores development broadcast logs
 !/broadcast
@@ -14,5 +14,10 @@ docs/
 # Dotenv file
 .env
 
-.env
-.env
+broadcast/
+lib/
+
+.DS_Store
+zkout/
+desktop.ini
+Thumbs.db
